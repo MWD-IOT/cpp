@@ -21,7 +21,7 @@ int main(void)
     cout << "\nSize of yams array = " << sizeof yams;
     cout << "bytes.\n";
     cout << "Size of one element = " << sizeof yams[0];
-    cout << " bytes.\n"
+    cout << " bytes.\n";
 
     return 0;
 }
